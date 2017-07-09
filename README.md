@@ -3,4 +3,4 @@
 
 <https://adamziaja.com/book/>
 
-![Praktyczna analiza powłamaniowa. Aplikacja webowa w środowisku Linux](https://adamziaja.com/book/assets/images/cover.png "Praktyczna analiza powłamaniowa. Aplikacja webowa w środowisku Linux")
+![Praktyczna analiza powłamaniowa. Aplikacja webowa w środowisku Linux](https://raw.githubusercontent.com/adamziaja/praktyczna-analiza-powlamaniowa/master/cover.png "Praktyczna analiza powłamaniowa. Aplikacja webowa w środowisku Linux")
